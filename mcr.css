@@ -1,0 +1,20 @@
+body {
+    color: #000000;
+    background-color: #ff1cd9;
+
+}
+h1 {
+    color: #ec1d1d;
+    font-size: 1rem; 
+    background-color: #cccccc;
+
+}
+h2 {
+    font-style: italic;
+    color: #008000;
+    font-size: 0.8rem;
+    background-color: #ecf01e;
+}
+p {
+    font-size: 12px;
+}
